@@ -176,8 +176,8 @@ Unauthorized scanning may violate laws and regulations.
 
 ## 👨‍💻 Author
 
-Saswat Pandey  
-Cybersecurity Enthusiast | Ethical Hacking | Security Automation  
+Saswat Kumar Pandey  
+Cybersecurity | Red Teaming | Security Automation  
 
 ---
 
